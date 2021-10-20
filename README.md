@@ -1,3 +1,3 @@
-# Corsera-Certificates
+# Coursera-Certificates
 
 This Repository contains all of my Coursera Certificates.
